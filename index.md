@@ -1,1 +1,3 @@
-# This is the tittle
+# MlOps learning
+
+![MLOps life cycle](https://dezyre.gumlet.io/images/blog/mlops-lifecycle/Understanding_the_MLOps_Lifecycle.webp?w=1242&dpr=1.3)
