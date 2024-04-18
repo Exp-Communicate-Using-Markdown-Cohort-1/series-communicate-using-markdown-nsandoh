@@ -6,3 +6,8 @@
 import pandas as pd
 data = pd.read_parquet(parquet_url)
 ```
+
+My journey must require:  
+- [x] Get some courses.
+- [ ] Buy kindle book
+- [x] Ask if the certifications have some discount from the company
